@@ -1,0 +1,10 @@
+v 1.0
+d 'USEFUL_TWEAKS': USEFUL_TWEAKS: Stata module Tweaked by JP Azevedo
+d 
+d Distribution-Date:   20190208
+d License: MIT
+d 
+F ado/m/mdensity.ado
+F ado/m/mdensity.hlp
+F ado/t/tolower.ado
+
