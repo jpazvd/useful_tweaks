@@ -1,6 +1,6 @@
-v 1.0
-d Materials by Joao Pedro Azevedo
-d World Bank
+v 3
+d Materials by João Pedro Azevedo
+d The World Bank
 d jazevedo@worldbank.org
 d http://www.worldbank.org/en/about/people/j/joao-pedro-azevedo
 
